@@ -7,6 +7,8 @@
 [![Containers](https://img.shields.io/badge/containers-Docker-2496ED)](#docker-e-wordpress)
 [![OS](https://img.shields.io/badge/os-Ubuntu%2024.04-E95420)](#ec2)
 
+---
+
 ## Sobre o projeto
 
 O **Projeto Compass 02** documenta a construção de um ambiente AWS para hospedar uma aplicação WordPress de forma estruturada, utilizando serviços gerenciados e componentes de infraestrutura distribuídos em sub-redes públicas e privadas.
