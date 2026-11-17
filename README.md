@@ -83,7 +83,7 @@ A aplicação é executada em instâncias EC2 baseadas em Ubuntu, com Docker com
 
 O Docker Compose organiza a execução da aplicação WordPress e sua comunicação com os serviços de persistência.
 
-Arquivos auxiliares do projeto incluem `docker-compose.yaml` e `user-data.sh`.
+Arquivos auxiliares do projeto incluem `docker-compose.yaml` e `user_data.sh`.
 
 ### 7. Launch Template
 
@@ -103,7 +103,7 @@ O NAT Gateway permite que recursos em subnets privadas realizem conexões de sa�
 Projeto-Compass-02/
 ├── README.md
 ├── docker-compose.yaml
-├── user-data.sh
+├── user_data.sh
 └── Images/
     └── diagramas e capturas da implementação
 ```
